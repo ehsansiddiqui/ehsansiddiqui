@@ -2,7 +2,7 @@
 
 ## Hey there, 
 
-I am @ehsansiddiqui, a machine learning engineer and a web developer from Paris. Currently I am pursing interdisciplinary master's in digital sciences focused on deep learning and machine learning.My recent work focused on Machine Learning, Deep Learning, and NLP. On the side, I'm trying to explore computer vision field.  Previously, I've also worked on mobile & web applications.I have listed some of my professional and personal projects.
+I am @ehsansiddiqui, a machine learning engineer and a web developer from Paris. Currently I am pursing interdisciplinary master's in digital sciences focused on deep learning and machine learning. My recent work focused on Machine Learning, Deep Learning, and NLP. On the side, I'm trying to explore computer vision field.  Previously, I've also worked on mobile & web applications.I have listed some of my professional and personal projects.
 
 ## Technologies & Tools
 
